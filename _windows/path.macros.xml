@@ -1,0 +1,5 @@
+<application>
+  <component name="PathMacrosImpl">
+    <macro name="KOTLIN_BUNDLED" value="H:\Java school\JetBrains IntelliJ IDEA Ultimate 2020.1 x64\ideaIU-2020.1.windows\plugins\Kotlin\kotlinc" />
+  </component>
+</application>
